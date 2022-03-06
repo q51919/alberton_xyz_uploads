@@ -1,0 +1,22 @@
+2022-01-13T02:55:15+00:00 CRITICAL Uncaught Error: Class 'WpFastestCacheUpdate' not found in /www/wwwroot/alberton.xyz/wp-content/plugins/wp-fastest-cache-premium/wpFastestCachePremium.php:231
+Stack trace:
+#0 /www/wwwroot/alberton.xyz/wp-admin/includes/plugin.php(2286): include_once()
+#1 /www/wwwroot/alberton.xyz/wp-admin/includes/plugin.php(668): plugin_sandbox_scrape()
+#2 /www/wwwroot/alberton.xyz/wp-admin/plugins.php(58): activate_plugin()
+#3 {main}
+  thrown in /www/wwwroot/alberton.xyz/wp-content/plugins/wp-fastest-cache-premium/wpFastestCachePremium.php on line 231
+
+2022-01-13T02:55:24+00:00 CRITICAL Uncaught Error: Class 'WpFastestCacheUpdate' not found in /www/wwwroot/alberton.xyz/wp-content/plugins/wp-fastest-cache-premium/wpFastestCachePremium.php:231
+Stack trace:
+#0 /www/wwwroot/alberton.xyz/wp-admin/includes/plugin.php(2286): include_once()
+#1 /www/wwwroot/alberton.xyz/wp-admin/plugins.php(191): plugin_sandbox_scrape()
+#2 {main}
+  thrown in /www/wwwroot/alberton.xyz/wp-content/plugins/wp-fastest-cache-premium/wpFastestCachePremium.php on line 231
+
+2022-01-13T02:55:24+00:00 CRITICAL Uncaught Error: Class 'WpFastestCacheUpdate' not found in /www/wwwroot/alberton.xyz/wp-content/plugins/wp-fastest-cache-premium/wpFastestCachePremium.php:231
+Stack trace:
+#0 /www/wwwroot/alberton.xyz/wp-admin/includes/plugin.php(2286): include_once()
+#1 /www/wwwroot/alberton.xyz/wp-admin/plugins.php(191): plugin_sandbox_scrape()
+#2 {main}
+  thrown in /www/wwwroot/alberton.xyz/wp-content/plugins/wp-fastest-cache-premium/wpFastestCachePremium.php on line 231
+
